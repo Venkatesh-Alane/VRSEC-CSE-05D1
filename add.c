@@ -3,6 +3,7 @@
 void main()
 {
 int a,b;
+printf("Arey pulka");
 printf("enter a,b values");
 scanf("%d%d",&a,&b);
 printf("Add:%d",a+b);
